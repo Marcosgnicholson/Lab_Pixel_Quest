@@ -30,6 +30,7 @@ public class NewBehaviourScript : MonoBehaviour
     {
         // rb.velocity = Vector2.left;
         rb = GetComponent<Rigidbody2D>();
+        /*
         if (Input.GetKeyDown(KeyCode.A))
         {
             rb.velocity = new Vector2(-1, rb.velocity.y);
@@ -37,7 +38,7 @@ public class NewBehaviourScript : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.D))
         {
             rb.velocity = new Vector2(1, rb.velocity.y);
-        }
+        }*/
 
         // rb.velocity = new Vector2(-1, rb.velocity.y);
         /*
