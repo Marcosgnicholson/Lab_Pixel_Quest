@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/Geo_Quest/Scenes/scene_4.unity
     guid: 233b75cea618d44d8aea049513db6f6e
   - enabled: 1
+    path: Assets/Geo_Quest/Scenes/scene_5.unity
+    guid: 646c777a8b31fa24c982dd7b0e9a8984
+  - enabled: 1
     path: Assets/Geo_Quest/Scenes/the_end.unity
     guid: 823a724bd9ac6480a9ce1c355a3efb79
   m_configObjects: {}
